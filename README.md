@@ -1,7 +1,7 @@
 # Hypixel FreeBuild List
 List of Hypixel FreeBuilds, now available on JSON format!
 
-This data is scraped from the FreeBuild wiki.
+This data is scraped from the [Hypixel FreeBuild Wiki.](https://hypixel-freebuild.fandom.com/)
 
 ## Example Data:
 
