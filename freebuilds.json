@@ -14,7 +14,7 @@
     "owner": "TokyoSmoke",
     "plot_size": "255x",
     "creation_date": "March 31, 2024",
-    "name_styling": "§6Freebuild §f151x151",
+    "name_styling": "§6Freebuild §f181x181",
     "spawn_coordinates": "0 66 -78",
     "discord_server": "https://discord.gg/3M6ezeFf",
     "uuid": "397ec3ac06cf4a6087fe083b4d057777"
@@ -338,6 +338,26 @@
     "spawn_coordinates": "-10 212 30",
     "discord_server": null,
     "uuid": "631f156e228e445786a869ee165cc526"
+  },
+  {
+    "name": "America FreeBuild",
+    "owner": "President47Trump",
+    "plot_size": "255x",
+    "creation_date": "January 22, 2025",
+    "name_styling": "§4§lAmerica §f§lFree§1§lBuild",
+    "spawn_coordinates": "106 107 107",
+    "discord_server": "https://discord.gg/prtfegbcQB",
+    "uuid": "fc9d100cd3754906af7e0aa27e8d095a"
+  },
+  {
+    "name": "FreeBuild by Kubiczek2758",
+    "owner": "Kubiczek2758",
+    "plot_size": "101x",
+    "creation_date": "October 13, 2024",
+    "name_styling": "§b§lFree Build §f§l101x101",
+    "spawn_coordinates": "-5 103 -41",
+    "discord_server": null,
+    "uuid": "c59397d1fa6c4405b56b0f5437159138"
   },
   {
     "name": "FreeBuild by yl0v",
@@ -1048,16 +1068,6 @@
     "spawn_coordinates": "-8 110 -57",
     "discord_server": null,
     "uuid": "6f2ba16adfe54d01b91cb843841bb25a"
-  },
-  {
-    "name": "FreeBuild by Kubiczek2758",
-    "owner": "Kubiczek2758",
-    "plot_size": "101x",
-    "creation_date": "October 13, 2024",
-    "name_styling": "§f§lFREE §f§lBUILD §b§l| §b§lNEW",
-    "spawn_coordinates": "-5 103 -41",
-    "discord_server": null,
-    "uuid": "c59397d1fa6c4405b56b0f5437159138"
   },
   {
     "name": "FreeBuild Build a Shop",
